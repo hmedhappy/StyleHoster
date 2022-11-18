@@ -21,25 +21,31 @@
       line-height: 48px;
       font-weight: 600;
       margin: 48px 0;
+      background-color: red !important;
     }
     h2 {
       font-size: 36px;
       line-height: 40px;
       margin: 48px 0;
+      background-color: red !important;
     }
     h3 {
       font-size: 30px;
       line-height: 38px;
+      background-color: red !important;
     }
     h4 {
       font-size: 24px;
       line-height: 28px;
+      background-color: red !important;
     }
     h5 {
       font-size: 20px;
       line-height: 28px;
+      background-color: red !important;
     }
     h6 {
       font-size: 18px;
+      background-color: red !important;
     }
     
