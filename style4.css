@@ -91,6 +91,10 @@
       margin: 0;
       text-align: justify;
     }
+* {
+              font-family: "Poppins", Helvetica,Arial,sans-serif;
+
+}
     .mce-pagebreak {
       border: 0;
       margin: 92px 0;
